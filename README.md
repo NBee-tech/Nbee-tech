@@ -16,6 +16,7 @@
 </p>
 
 <img
+    align="right"
     src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS"
     alt="Profile views"
     height="28"

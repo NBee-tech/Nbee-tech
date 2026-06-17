@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi there, I'm <a href="https://github.com/NBee-tech">Nick</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  <hr style="height:5px;border:none;color:#333;background-color:#333;">
 </h1>
 
 <h3 align="left">
@@ -22,6 +21,5 @@
       alt="Profile views"
       height="28"
   />
-  <hr style="height:5px;border:none;color:#333;background-color:#333;">
 </div>
 

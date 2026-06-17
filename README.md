@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
 Welcome to my Git
 </h1>
 <h3>

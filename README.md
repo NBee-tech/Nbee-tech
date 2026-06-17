@@ -21,4 +21,5 @@
     alt="Profile views"
     height="28"
 />
+<hr>
 

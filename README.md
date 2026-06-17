@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  Constantly improving my development skills within the .NET ecosystem, currently focusing on ASP.NET Core, EF Core, application architecture, and code quality. In my free time, I love to study graphics programming and modern approaches to creating photorealistic real-time graphics. In the future, I plan to expand my tech stack by learning C++.
+  Constantly improving within the .NET ecosystem => currently focusing on perfecting my ASP.NET Core && EF Core understanding. In my free time, I love to study graphics programming and modern approaches to creating photorealistic real-time graphics, especially real-time ocean rendering. In the future, I plan to expand my tech stack with C++.
 </p>
 <div>
   <img

@@ -6,7 +6,7 @@ Welcome to my Git
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&vCenter=true&width=300&height=20&lines=Software+Engineer;Graphics+Enthusiast;A+student+from+Russia" alt="Typing SVG" align="center" /></a>
   &nbsp;&nbsp;
     <img
-        align="center"
+        align="right"
         src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS"
         alt="Profile views"
         height="28"

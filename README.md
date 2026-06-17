@@ -14,7 +14,7 @@
 <p align="left">
   Constantly improving my development skills within the .NET ecosystem, currently focusing on ASP.NET Core, EF Core, application architecture, and code quality. In my free time, I love to study graphics programming and modern approaches to creating photorealistic real-time graphics. In the future, I plan to expand my tech stack by learning C++.
 </p>
-<p>
+<div>
 <img
     align="right"
     src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS"
@@ -22,5 +22,5 @@
     height="28"
 />
 <hr>
-</p>
+</div>
 

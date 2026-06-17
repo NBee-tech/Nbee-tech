@@ -10,8 +10,9 @@
   />
   &nbsp;&nbsp;
   <img
-    src="https://komarev.com/ghpvc/?username=NBee-tech"
-    alt="Profile views counter"
+    src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS&color=f0f6fc&style=flat"
+    height="28"
+    alt="Profile views"
   />
 </h2>
 

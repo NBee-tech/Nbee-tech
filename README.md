@@ -21,6 +21,6 @@
       alt="Profile views"
       height="28"
   />
-  <hr style="height:1px;border:none;color:#333;background-color:#333;">
+  <hr style="height:5px;border:none;color:#333;background-color:#333;">
 </div>
 

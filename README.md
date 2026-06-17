@@ -19,7 +19,7 @@
   />
   </p>
 </h3>
-<p align="center">
+<p align="left">
   Constantly improving my development skills within the .NET ecosystem, currently focusing on ASP.NET Core, Entity Framework Core, application architecture, and code quality. In my free time, I love to study graphics programming and modern approaches to creating photorealistic real-time graphics. In the future, I plan to expand my tech stack by learning C++.
 </p>
 

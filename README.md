@@ -2,7 +2,9 @@
 Welcome to my <a href="https://github.com/NBee-tech">Git</a>
 </h1>
 <div style="display: flex; align-items: center;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&vCenter=true&width=300&height=20&lines=software+engineer...;graphics+enthusiast...;self-taught...;proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=0969DA&vCenter=true&width=300&height=20&lines=software+engineer...;graphics+enthusiast...;self-taught...;proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" />
+    </a>
     <img
         align="right"
         src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS"

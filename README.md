@@ -8,7 +8,7 @@
 
 <p align="center">
   <img width="64" alt="Csharp Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Csharp_Logo.png/250px-Csharp_Logo.png">
-  <img width="64" height="64" src="https://github.com/user-attachments/assets/fcc0f996-2239-45a4-96fe-3d12a004d412" alt="JS logo" />
+  <img width="64" alt="The logo for the progamming language JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png">
 </p>
 
 <p align="left">

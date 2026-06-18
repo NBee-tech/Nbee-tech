@@ -7,7 +7,7 @@ Welcome to my <a href="https://github.com/NBee-tech">Git</a> !
 </p>
 
 <p align="center">
-  s
+  <img width="64" height="64" src="https://github.com/user-attachments/assets/1221f6b4-99fc-482c-ad1b-e0823d467d23" alt="image" />
 </p>
 
 <p align="left">

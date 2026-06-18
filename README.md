@@ -6,8 +6,8 @@ Welcome to my <a href="https://github.com/NBee-tech">Git</a> !
         <img align="right" height="32" src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p align="left">
-  
+<p align="center">
+  s
 </p>
 
 <p align="left">

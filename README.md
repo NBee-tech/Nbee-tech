@@ -1,11 +1,9 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3685ef2a-8936-4b96-a9e3-41e58da74d52" /><h1 align="center">
 Welcome to my <a href="https://github.com/NBee-tech">Git</a> !
 </h1>
 <div style="display: flex; align-items: center;">
     <h2>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hanken+Grotesk&weight=600&duration=4000&pause=800&color=4599FF&vCenter=true&width=300&height=20&lines=Software+engineer+...;Graphics+enthusiast+...;Self-taught+...;Proud+cat+owner+%F0%9F%90%B1" alt="Typing SVG" /></a>
         <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2e5ebb2a-f665-4fdb-b1eb-812080173666" />
-
         <img
             align="right"
             src="https://komarev.com/ghpvc/?username=NBee-tech&label=PROFILE+VIEWS"

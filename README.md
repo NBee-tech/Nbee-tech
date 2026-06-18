@@ -7,7 +7,8 @@ Welcome to my <a href="https://github.com/NBee-tech">Git</a> !
 </p>
 
 <p align="center">
-  <img width="64" height="64" src="https://github.com/user-attachments/assets/1221f6b4-99fc-482c-ad1b-e0823d467d23" alt="image" />
+  <img width="64" height="64" src="https://github.com/user-attachments/assets/1221f6b4-99fc-482c-ad1b-e0823d467d23" alt="C# logo" />
+  <img width="64" height="64" src="https://github.com/user-attachments/assets/fcc0f996-2239-45a4-96fe-3d12a004d412" alt="JS logo" />
 </p>
 
 <p align="left">

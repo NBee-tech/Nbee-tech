@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/e81a7c14-26a6-49f9-b6f2-1b3be6060433" />
+  <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/57cb5a66-5525-4a18-bf8d-781850337a46" />
+
   <img width="64" alt="The logo for the progamming language JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/250px-JavaScript-logo.png">
 </p>
 

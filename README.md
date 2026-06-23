@@ -14,6 +14,7 @@
 <h3>
   Currently Working On:
 </h3>
+<hr>
 <p align="left">
   <p>
     📦 Warehouse Management System (ASP.NET Core + PostgreSQL + React)

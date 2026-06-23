@@ -15,18 +15,18 @@
   Currently Working On:
 </h3>
 <p align="left">
-  <li>
+  <p>
     📦 Warehouse Management System (ASP.NET Core + PostgreSQL + React)
-  </li>
-  <li>
+  </p>
+  <p>
     🌊 FFT Ocean Simulation in Unity
-  </li>
-  <li>
+  </p>
+  <p>
     📚 Deepening my understanding of ASP.NET Core & EF Core
-  </li>
-  <li>
+  </p>
+  <p>
     🎮 Studying graphics programming and real-time rendering
-  </li>
+  </p>
 </p>
 
 ## Tech Stack

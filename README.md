@@ -19,4 +19,25 @@
 - 📚 Deepening my understanding of ASP.NET Core & EF Core
 - 🎮 Studying graphics programming and real-time rendering
 
+## Tech Stack
 
+### Backend
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- PostgreSQL
+
+### Frontend
+- React
+- TypeScript
+- Vite
+
+### Tools
+- Git
+- Docker (learning)
+- Unity
+
+### Interests
+- Graphics Programming
+- Real-Time Rendering
+- Ocean Simulation

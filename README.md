@@ -12,10 +12,10 @@
 </p>
 
 ## Currently Working On
- 📦 Warehouse Management System (ASP.NET Core + PostgreSQL + React)
- 🌊 FFT Ocean Simulation in Unity
- 📚 Deepening my understanding of ASP.NET Core & EF Core
- 🎮 Studying graphics programming and real-time rendering
+ - 📦 Warehouse Management System (ASP.NET Core + PostgreSQL + React)
+ - 🌊 FFT Ocean Simulation in Unity
+ - 📚 Deepening my understanding of ASP.NET Core & EF Core
+ - 🎮 Studying graphics programming and real-time rendering
 
 
 ## Tech Stack

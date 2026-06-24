@@ -13,7 +13,7 @@
   Outside of work, I enjoy studying graphics programming and real-time rendering techniques, with a particular interest in ocean simulation and photorealistic computer graphics. My long-term goal is to expand into C++ and graphics engineering.
 </p>
 
-## Currently Working On:
+## Currently Working On
  📦 Warehouse Management System (ASP.NET Core + PostgreSQL + React)
  🌊 FFT Ocean Simulation in Unity
  📚 Deepening my understanding of ASP.NET Core & EF Core

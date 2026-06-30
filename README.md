@@ -13,11 +13,11 @@ Outside of work, I enjoy studying graphics programming and real-time rendering t
  - 🎮 Studying graphics programming and real-time rendering
 
 ## Tech Stack
-<code><img height="35" alt="CSharp" title="CSharp" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/C%23%20(CSharp).svg"></code>
-<code><img height="35" alt="JavaScript" title="JavaScript" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/JavaScript.svg"></code>
-<code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/PostgresSQL.svg"></code>
-<code><img height="35" alt="React" title="React" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/REACT.svg"></code>
-<code><img height="35" alt="Git" title="Git" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/Git.svg"></code>
-<code><img height="35" alt="Unity" title="Unity" src="https://github.com/M4nver/M4nver/blob/main/assets/unity.png"></code>
-<code><img height="35" alt="Insomnia" title="Insomnia" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/Insomnia.svg"></code>
-<code><img height="35" alt="VSCode" title="VSCode" src="https://github.com/M4nver/M4nver/blob/main/assets/vsCode.png"></code>
+<code><img height="35" alt="CSharp" title="CSharp" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/csharp_logo.svg"></code>
+<code><img height="35" alt="JavaScript" title="JavaScript" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/js_logo.svg"></code>
+<code><img height="35" alt="PostgreSQL" title="PostgreSQL" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/postgre_logo.svg"></code>
+<code><img height="35" alt="React" title="React" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/react_logo.svg"></code>
+<code><img height="35" alt="Git" title="Git" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/git_logo.svg"></code>
+<code><img height="35" alt="Unity" title="Unity" src="https://github.com/M4nver/M4nver/blob/main/assets/unity_logo.png"></code>
+<code><img height="35" alt="Insomnia" title="Insomnia" src="https://github.com/NBee-tech/Nbee-tech/blob/main/assets/insomnia_logo.svg"></code>
+<code><img height="35" alt="VSCode" title="VSCode" src="https://github.com/M4nver/M4nver/blob/main/assets/vscode_logo.png"></code>
